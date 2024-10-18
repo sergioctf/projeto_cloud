@@ -13,7 +13,6 @@ Bem-vindo ao **Projeto Cloud**, uma aplicação web desenvolvida com o framework
 5. [Configuração](#configuração)
 6. [Como Executar a Aplicação](#como-executar-a-aplicação)
 7. [Como Usar a Aplicação](#como-usar-a-aplicação)
-   - [Registro de Usuário](#registro-de-usuário)
    - [Login de Usuário](#login-de-usuário)
    - [Consulta de Dados](#consulta-de-dados)
    - [Logout](#logout)
