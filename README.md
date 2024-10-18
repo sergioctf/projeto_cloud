@@ -22,7 +22,6 @@ Bem-vindo ao **Projeto Cloud**, uma aplicação web desenvolvida com o framework
 10. [Dockerização](#dockerização)
     - [Docker Pré-requisitos](#docker-pré-requisitos)
     - [Como Executar a Aplicação com Docker Compose](#como-executar-a-aplicação-com-docker-compose)
-    - [Usando a Imagem do Docker Hub](#usando-a-imagem-do-docker-hub)
     - [Link para o Docker Hub do Projeto](#link-para-o-docker-hub-do-projeto)
 
 ---
