@@ -1,0 +1,19 @@
+<!-- templates/registrar.html -->
+
+{% extends 'base.html' %}
+
+{% block title %}Registrar{% endblock %}
+
+{% block content %}
+<h1>Registrar</h1>
+<form action="{{ url_for('auth.registrar') }}" method="post">
+    <label for="nome">Nome:</label><br>
+    <input type="text" id="nome" name="nome" required><br><br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+    <label for="senha">Senha:</label><br>
+    <input type="password" id="senha" name="senha" required><br><br>
+    <input type="submit" value="Registrar">
+</form>
+<p><a href="{{ url_for('index') }}">Voltar</a></p>
+{% endblock %}

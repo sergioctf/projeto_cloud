@@ -1,0 +1,15 @@
+<!-- templates/index.html -->
+
+{% extends 'base.html' %}
+
+{% block title %}Bem-vindo à Aplicação{% endblock %}
+
+{% block content %}
+<h1>Bem-vindo à Aplicação!</h1>
+<p>
+    <a href="{{ url_for('auth.registrar') }}">Registrar</a> |
+    <a href="{{ url_for('auth.login') }}">Login</a> |
+    <a href="{{ url_for('auth.logout') }}">Logout</a> |
+    <a href="{{ url_for('auth.consultar') }}">Consultar Dados</a>
+</p>
+{% endblock %}

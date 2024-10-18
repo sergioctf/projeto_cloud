@@ -1,0 +1,37 @@
+<!-- app/templates/consultar.html -->
+
+{% extends 'base.html' %}
+
+{% block title %}Dados do Usuário{% endblock %}
+
+{% block content %}
+<h1>Dados do Usuário</h1>
+<p><strong>ID:</strong> {{ user.id }}</p>
+<p><strong>Nome:</strong> {{ user.nome }}</p>
+<p><strong>Email:</strong> {{ user.email }}</p>
+
+<h2>Preços das Criptomoedas</h2>
+{% if dados %}
+    <table border="1">
+        <tr>
+            <th>Criptomoeda</th>
+            <th>Preço em USD</th>
+            <th>Preço em BRL</th>
+        </tr>
+        {% for moeda, valores in dados.items() %}
+        <tr>
+            <td>{{ moeda.capitalize() }}</td>
+            <td>${{ valores.usd }}</td>
+            <td>R${{ valores.brl }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <p>Não foi possível obter os dados externos.</p>
+{% endif %}
+
+<p>
+    <a href="{{ url_for('index') }}">Início</a> |
+    <a href="{{ url_for('auth.logout') }}">Logout</a>
+</p>
+{% endblock %}
