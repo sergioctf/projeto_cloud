@@ -24,8 +24,6 @@ Bem-vindo ao **Projeto Cloud**, uma aplicação web desenvolvida com o framework
     - [Como Executar a Aplicação com Docker Compose](#como-executar-a-aplicação-com-docker-compose)
     - [Usando a Imagem do Docker Hub](#usando-a-imagem-do-docker-hub)
     - [Link para o Docker Hub do Projeto](#link-para-o-docker-hub-do-projeto)
-    - [Comandos Utilizados para Publicação no Docker Hub](#comandos-utilizados-para-publicação-no-docker-hub)
-11. [Contato](#contato)
 
 ---
 
