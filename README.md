@@ -86,7 +86,7 @@ python app.py
 
 ### 2. Acesse a Aplicação
 
-Abra o navegador e acesse `http://localhost:5000`.
+Abra o navegador e acesse `http://localhost:5000` ou `http://127.0.0.1:5000/`.
 
 # Como Usar a Aplicação
 
