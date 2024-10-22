@@ -146,7 +146,7 @@ projeto_cloud/
 - **Requests**: Requisições HTTP.
 - **Docker**: Containerização da aplicação.
 
-# Dockerização
+# Docker
 
 ## Docker Pré-requisitos
 - **Docker Desktop**: Instalado e em execução.
