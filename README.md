@@ -50,7 +50,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados em seu amb
 ## Instalação
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/sctcarmelo/projeto_cloud.git```
+git clone https://github.com/sctcarmelo/projeto_cloud.git
 ```
 ### 2. Crie um Ambiente Virtual
 ```bash
@@ -129,7 +129,7 @@ projeto_cloud/
 │       ├── login.html
 │       └── consultar.html
 ├── .env
-├── compose.yaml
+├── docker-compose.yaml
 ├── README.md
 └── venv/ (ambiente virtual)
 ```
