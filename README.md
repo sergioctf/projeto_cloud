@@ -51,7 +51,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados em seu amb
 ### 1. Clone o Repositório
 ```bash
 git clone https://github.com/sctcarmelo/projeto_cloud.git```
-
+```
 ### 2. Crie um Ambiente Virtual
 ```bash
 cd projeto_cloud
