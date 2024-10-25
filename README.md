@@ -178,6 +178,11 @@ http://localhost:5000 ou http://127.0.0.1:5000
 5. Teste a aplicação
 
 - _Registre_, faça _Login_ e _Consulte_ preços atuais de criptomoedas como Bitcoin e Ethereum.
+- [Como Usar a Aplicação Local](#como-usar-a-aplicação)
+   - [Login de Usuário](#login-de-usuário)
+   - [Consulta de Dados](#consulta-de-dados)
+   - [Logout](#logout) 
+
   
 ## Link para o Docker Hub do Projeto 
 
