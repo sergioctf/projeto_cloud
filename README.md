@@ -188,5 +188,8 @@ http://localhost:5000 ou http://127.0.0.1:5000
 
 https://hub.docker.com/repository/docker/sctcarmelo/projeto_cloud
 
+## Material de Apoio
+
+https://insper.github.io/computacao-nuvem/projetos_2024-2/2024-2_projeto/
 
 
