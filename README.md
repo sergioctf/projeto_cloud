@@ -167,6 +167,12 @@ SECRET_KEY=your_secret_key
 docker-compose up
 ```
 
+4. Acesse a aplicação.
+
+```bash
+http://localhost:5000 ou http://127.0.0.1:5000
+```
+
 ## Link para o Docker Hub do Projeto 
 
 https://hub.docker.com/repository/docker/sctcarmelo/projeto_cloud
