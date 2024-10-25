@@ -3,6 +3,8 @@
 
 Bem-vindo ao **Projeto Cloud**, uma aplicação web desenvolvida com o framework Flask em Python. Esta aplicação permite que os usuários se cadastrem, façam login e consultem dados externos atualizados regularmente. Os dados exibidos são obtidos da API pública da CoinGecko, mostrando os preços atuais de criptomoedas como Bitcoin e Ethereum.
 
+**PARA TESTAR: VÁ DIRETO PARA EXECUTAR NO DOCKER**
+
 ---
 
 ## Índice
@@ -161,10 +163,10 @@ DATABASE_URL=postgresql://user:password@db:5432/projeto_cloud
 SECRET_KEY=your_secret_key
 ```
 
-3. Execute o comando `docker-compose up` para construir e iniciar os containers.
+3. Execute o comando `docker compose up` para construir e iniciar os containers.
 
 ```bash
-docker-compose up
+docker compose up
 ```
 
 4. Acesse a aplicação.
@@ -173,6 +175,10 @@ docker-compose up
 http://localhost:5000 ou http://127.0.0.1:5000
 ```
 
+5. Teste a aplicação
+
+- _Registre_, faça _Login_ e _Consulte_ preços atuais de criptomoedas como Bitcoin e Ethereum.
+  
 ## Link para o Docker Hub do Projeto 
 
 https://hub.docker.com/repository/docker/sctcarmelo/projeto_cloud
