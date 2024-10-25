@@ -20,7 +20,7 @@ Bem-vindo ao **Projeto Cloud**, uma aplicação web desenvolvida com o framework
    - [Logout](#logout)
 8. [Estrutura do Projeto](#estrutura-do-projeto)
 9. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-10. [Como Executar a Aplicação com Docker](#dockerização)
+10. [Como Executar a Aplicação com Docker](#docker)
     - [Docker Pré-requisitos](#docker-pré-requisitos)
     - [Como Executar a Aplicação com Docker Compose](#como-executar-a-aplicação-com-docker-compose)
     - [Link para o Docker Hub do Projeto](#link-para-o-docker-hub-do-projeto)
