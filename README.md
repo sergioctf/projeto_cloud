@@ -67,7 +67,7 @@ source venv/bin/activate # Linux
 
 ### 3. Instale as Dependências
 ```bash
-
+cd /app
 pip install -r requirements.txt
 ```
 
@@ -191,5 +191,9 @@ https://hub.docker.com/repository/docker/sctcarmelo/projeto_cloud
 ## Material de Apoio
 
 https://insper.github.io/computacao-nuvem/projetos_2024-2/2024-2_projeto/
+
+## Vídeo Demonstrativo
+
+https://youtu.be/E5G2vybC24s
 
 
