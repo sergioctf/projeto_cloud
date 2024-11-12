@@ -192,11 +192,11 @@ projeto_cloud/
 [Vídeo Etapa 1](https://youtu.be/E5G2vybC24s)
 
 ### Vídeo Demonstrativo Final
-[Vídeo Etapa 2]
+[Vídeo Etapa 2](https://youtu.be/J62-QB3fa-g)
 
 ### Material de Apoio
 [https://insper.github.io/computacao-nuvem/projetos_2024-2/2024-2_projeto/](https://insper.github.io/computacao-nuvem/projetos_2024-2/2024-2_projeto/)
-```
+
 
 
 
